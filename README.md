@@ -4,7 +4,7 @@ This repo contains the demo code and data of our IEEE TMM'2022 paper Graph Contr
 
 >IEEE Xplore: [Graph Contrastive Partial Multi-View Clustering](https://ieeexplore.ieee.org/abstract/document/9904927)
 >
-![framework][Model.png]
+![Model](Model.png)
 ## Reference
 If you find our work useful in your research, please consider citing:
 
